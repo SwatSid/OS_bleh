@@ -1,0 +1,2 @@
+Heloooooooo bitch
+dd if=./sector_2.txt >> ./boot.bin
